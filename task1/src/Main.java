@@ -5,7 +5,6 @@ public class Main {
         max = 0;
         min = 0;
         total = 0;
-        average = 0;
         a = 10;
         b = 10;
         int[][] array = new int[a][b];
